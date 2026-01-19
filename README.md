@@ -37,11 +37,4 @@ All student identifiers are replaced with salted cryptographic hashes. Raw data 
 
 If you use this code, please cite:
 
-```bibtex
-@article{author2025moodle,
-  title={[paper title]},
-  author={[authors]},
-  journal={[journal]},
-  year={2025}
-}
-```
+Andrea Vázquez-Ingelmo. (2025). Code repository supporting the analysis of learning trajectories in software engineering education under AI policy changes (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
