@@ -4,7 +4,7 @@ Analysis pipeline for mining student learning behavior patterns from Moodle LMS 
 
 ## Overview
 
-This repository contains the code and analysis notebooks accompanying the paper *[paper title]*. The pipeline processes multi-year Moodle event logs to identify student engagement patterns and their relationship with academic performance.
+This repository contains the code and analysis notebooks accompanying the paper *Learning to Learn with AI: How AI Policy Reshapes Learning Trajectories in Software Engineering Education*. The pipeline processes multi-year Moodle event logs to identify student engagement patterns and their relationship with academic performance.
 
 ## Repository structure
 
